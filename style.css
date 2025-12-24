@@ -12,4 +12,27 @@ h1 {
 p {
   color: #555;
   font-size: 18px;
+  body {
+  background-color: lightblue;
 }
+
+
+  body {
+    
+  background-image: url("background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+}
+
+
+body {
+  color: white;
+}
+
+body {
+  background-color: #111;
+}
+
